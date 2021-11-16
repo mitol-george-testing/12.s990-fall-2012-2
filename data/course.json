@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "130e84fa-01e1-f953-3772-44b7f427e9ee"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Quantifying Uncertainty",
+  "course_description": "The ability to quantify the uncertainty in our models of nature is fundamental to many inference problems in Science and Engineering. In this course, we study advanced methods to represent, sample, update and propagate uncertainty. This is a \"hands on\" course: Methodology will be coupled with applications. The course will include lectures, invited talks, discussions, reviews and projects and will meet once a week to discuss a method and its applications.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.S990",
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
